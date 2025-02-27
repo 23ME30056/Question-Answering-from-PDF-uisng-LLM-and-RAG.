@@ -3,3 +3,4 @@ chromadb
 python-dotenv
 google-api-core
 PyPDF2
+dotenv
